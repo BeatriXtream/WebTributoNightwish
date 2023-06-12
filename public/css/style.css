@@ -44,7 +44,8 @@ header{
 
 .imgNombres{
     display: flex;
-    gap: 20px
+    justify-content: center;
+    gap: 100px
 }
 
     .tuomas{
@@ -94,20 +95,22 @@ p{
 }
 
 .videoclips{
-
+    display: flex;
+    gap: 100px;
+    justify-content: center;
 }
 
 footer{
-
+    background-color: gray;
 }
 
 
 .footer1{
-
+    text-align: left;
 }
 
 
 .footer2{
-
+    text-align: right;
 }
 
